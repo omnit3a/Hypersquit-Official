@@ -1,5 +1,5 @@
-# BISQUIT-language
-A repository for the BISQUIT programming langauge
+# Hypersquit
+A repository for the Hypersquit programming langauge
 Current Version: BISQUIT V0.1
 
 #How to write a program
@@ -10,10 +10,10 @@ The Commands string is on line 260 of "Main.java"
 The Arguments string is on line 261 of "Main.java"
 
 # Memory
-The memory of this version of BISQUIT has 255 addresses builtin, but it can be expanded by simply adding to the "compMemory" int array.
+The memory of this version of Hypersquit has 255 addresses builtin, but it can be expanded by simply adding to the "compMemory" int array.
 
-# Benefits of using BISQUIT
-Currently, BISQUIT only has two purposes.
+# Benefits of using Hypersquit
+Currently, Hypersquit only has two purposes.
 The first is to make a langauge that can very easily have modifications made of it, the second is for it to be a fun project for me to make.
 
 # TODO (In order of urgency)
