@@ -1,4 +1,4 @@
-Hypersquit v0.2 instruction set
+Hypersquit v0.21 instruction set
 
 RASEPC: 0: store program counter value in register E
 RAISEA: x: store x in register A
