@@ -1,8 +1,8 @@
 # Hypersquit
 A repository for the Hypersquit programming langauge
-Current Version: Hypersquit v0.2
+Current Version: Hypersquit v0.21
 
-#How to write a program
+# How to write a program
 To write a program, follow the specified syntax in the "instruction set.txt" file. All lines of code must end with a colon.
 
 To run a program, save the code as a ".hysq" file and enter the path to the saved file in the console of "Main.java" when running
