@@ -10,11 +10,11 @@ The Arguments string is on line 261 of "Main.java"
 # Memory
 The memory of this version of BISQUIT has 255 addresses builtin, but it can be expanded by simply adding to the "compMemory" int array.
 
-#Benefits of using BISQUIT
+# Benefits of using BISQUIT
 Currently, BISQUIT only has two purposes.
 The first is to make a langauge that can very easily have modifications made of it, the second is for it to be a fun project for me to make.
 
-#TODO (In order of urgency)
+# TODO (In order of urgency)
 -Add the ability to read programs from files instead of from the source code of the langauge
 -Improve the branching commands
 -Make a compiler for the language, so that it can be run independent of the java source file
