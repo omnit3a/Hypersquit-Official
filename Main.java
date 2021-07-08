@@ -21,6 +21,7 @@ public class Main {
 	public static ArrayList<String> commands = new ArrayList<String>();
 	public static ArrayList<Integer> arguments = new ArrayList<Integer>();
 
+	//Instruction Set
 	public static void Tokenizer(String command, String argument){
 		StringTokenizer st = new StringTokenizer(command);
 		StringTokenizer in = new StringTokenizer(argument);
@@ -257,8 +258,8 @@ public class Main {
 	}
 	
 	public static void main(String[] args){
-		Tokenizer("RAISEE STOREE BRCHNB LOADRB BRNCHB RAISEB STOREB DECREM OUTPUT RAISEA STOREA BRCHNA GSTART EXITPR",
-				  "1 6 6 0 0 5 0 0 0 5 1 0 0 255");
+		Tokenizer("INSERT COMMANDS HERE",
+			  "INSERT ARGUMENTS HERE");
 	}
 	
 
