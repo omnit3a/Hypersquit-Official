@@ -1,5 +1,6 @@
 # Hypersquit
 A repository for the Hypersquit programming langauge
+
 Current Version: Hypersquit v0.21
 
 # How to write a program
