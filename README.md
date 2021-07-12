@@ -16,6 +16,8 @@ Currently, Hypersquit only has two purposes.
 The first is to make a langauge that can very easily have modifications made of it, the second is for it to be a fun project for me to make.
 
 # TODO (In order of urgency)
--Make a compiler for the language, so that it can be run independent of the java source file (In progress)
+-Add the ablility to make comments in code (In progress)
+
+-Make a compiler for the language, so that it can be run independent of the java source file
 
 -Improve the branching commands
