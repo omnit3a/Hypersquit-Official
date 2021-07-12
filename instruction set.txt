@@ -34,3 +34,5 @@ LOADRE: x: load memory address x into register A
 NOOPER: 0: no operation (increments program counter)
 OUTPUT: x: outputs memory address x to console
 OUTPPC: 0: outputs program counter to console
+
+Type "//" to begin a comment, and "//" to end one
