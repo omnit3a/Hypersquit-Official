@@ -35,4 +35,3 @@ NOOPER:0: no operation (increments program counter)
 OUTPUT:x: outputs memory address x to console
 OUTPPC:0: outputs program counter to console
 OUTCHR:x: outputs ascii character with the value of memory address x to console
-NEWLIN:0: outputs a new line character to the console
