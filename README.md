@@ -18,7 +18,7 @@ The first is to make a langauge that can very easily have modifications made of 
 # TODO (In order of urgency)
 -Add the ability to add comments to code (In progress)
 
--Add input capability to the langauge (In progress)
+-Add user input commands to the langauge (In progress)
 
 -Make a compiler for the language, so that it can be run independent of the java source file
 
