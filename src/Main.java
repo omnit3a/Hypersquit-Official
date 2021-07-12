@@ -256,6 +256,9 @@ public class Main {
 				continue;
 			case "OUTCHR":
 				System.out.println((char)compMemory[Integer.parseInt(in.nextToken())]);
+			case "NEWLIN":
+				System.out.println("\n");
+				continue;
 			}
 			
 			
